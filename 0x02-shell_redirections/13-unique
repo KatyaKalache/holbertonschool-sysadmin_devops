@@ -1,2 +1,2 @@
 #!/bin/bash
-sort < file4ex13 | uniq
+sort < list | uniq
